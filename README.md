@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there 👋 Привет!
+I am Artyom, a **Minecraft** developer mostly, also a Russian ⚡**YouTuber**
+Main tech stack is Java, JavaScript and TypeScript (there is also C# but very basic). I use tools such as: IDEA Ide's, AI Assistants (yeah, a bit of vibe-coding😄)
+For Minecraft development I use: MCreator for small projects like [Mindly Presence](https://modrinth.com/mod/mindly-presence) (started from small but now is completed horror mod), Forge and NeoForge (now working on [ActionBar Maker](https://github.com/KlinokGS/Actionbar_Maker_ABM) mod)
 
+## Some facts about me 💬
+- I really like tea but don't drink coffee at all
+- Im in love with Raccoons
+- **Hobbies:** video montage, photoshop, games
 <!--
 **KlinokGS/klinokGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
